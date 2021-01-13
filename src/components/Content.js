@@ -5,11 +5,13 @@ const Content = () => {
         <h3 className="text-decoration-underline text-center mb-4">&nbsp;&nbsp;&nbsp;&nbsp;About me&nbsp;&nbsp;&nbsp;&nbsp;</h3>
         <div className="row">
           <div className="col-md-6 col-sm-12 col-xs-12">
-            <p> I have 2 years of experience as an Oracle developer and 1 year as a software developer. I have worked on many
-                project mainly in the banking sector, developing financial solutions for money market, loans, and saving accounts
-                modules.</p>
+            <p> I have 2 years of experience as an Oracle developer and 1 year as a software developer. 
+                I have worked on many projects mainly in the banking sector, developing financial solutions 
+                for money markets, loans, and saving accounts modules.
+            </p>
             <p> I am also a proficient Java developer, building scalable full stack solutions using latest web technologies. 
-                My strong suit is in solving customer business problems and ensuring they receive a rebust and satisfying solution.
+                My strong suit is in solving customer business problems and ensuring they receive a robust 
+                and satisfying solution.
             </p>
           </div>
           <div className="col-md-6 col-sm-12 col-xs-12">
@@ -20,8 +22,7 @@ const Content = () => {
               </li>
               <li><strong>Interfaces:</strong> Developed an interface for a large bank. This interface would consume a SOAP api, verify data integrity
                 and apply many business rules to each and every operation received. This interface proved to be reliable and error 
-                resistant, consuming thousands or operations dealy in an insignificant amount of time.
-                con
+                resistant, consuming thousands or operations daily in an insignificant amount of time.
               </li>
             </ul>
           </div>
@@ -34,8 +35,8 @@ const Content = () => {
           <div className="col-md-6 col-sm-12 col-xs-12">
             <h4>I'm usually interested in:</h4>
             <p className="mx-2">
-              <b>Computer builds:</b> I go around searching for friend an aquitences wanting or interested
-              in building a gaming computer or just a workspaces and joing their research in finding their best suited hardware
+              <b>Computer builds:</b> I go around searching for friend an acquaintances wanting or interested
+              in building a gaming computer or just a workspaces and joining their research in finding their best suited hardware
               for the job.
             </p>
           </div>
