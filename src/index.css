@@ -11,3 +11,52 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #082026;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #72cde2;
+    padding: 20px;
+    color: #FFF
+}
+
+header h1 {
+    font-weight: 600;
+    margin: 10px;
+}
+
+header img {
+    border-radius: 50%;
+}
+
+
+h3 {
+    text-underline-offset: 5px;
+}
+
+.c-nav {
+    background-color: #7295e2;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #72cde2;
+}
+
+i {
+    color: #082026;
+}
