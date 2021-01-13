@@ -18,7 +18,7 @@ const Content = () => {
               <li><strong>Database migration:</strong> Migrated a whole banking system from the legacy Oracle 6i database to Oracle 12c. Upgraded
                 their binary files from forms 6i to 12c and optimizing many of their existing solutions.
               </li>
-              <li>Interfaces: Developed an interface for a large bank. This interface would consume a SOAP api, verify data integrity
+              <li><strong>Interfaces:</strong> Developed an interface for a large bank. This interface would consume a SOAP api, verify data integrity
                 and apply many business rules to each and every operation received. This interface proved to be reliable and error 
                 resistant, consuming thousands or operations dealy in an insignificant amount of time.
                 con
@@ -27,6 +27,7 @@ const Content = () => {
           </div>
         </div>
       </div>
+      <hr />
       <div id="interests" className="about-me">
         <h3 className="text-decoration-underline text-center mb-4">&nbsp;&nbsp;&nbsp;&nbsp;My interests&nbsp;&nbsp;&nbsp;&nbsp;</h3>
         <div className="row">
@@ -51,6 +52,7 @@ const Content = () => {
             </ul>
           </div>
         </div>
+        <hr />
         <div className="d-flex justify-content-center">
           <div className="contact-me" id="contact">
             <h3 className="text-decoration-underline text-center mb-4">&nbsp;&nbsp;&nbsp;&nbsp;Contact me&nbsp;&nbsp;&nbsp;&nbsp;</h3>
