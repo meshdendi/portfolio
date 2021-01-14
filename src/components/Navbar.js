@@ -1,7 +1,7 @@
 const Navbar = () => {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark c-nav">
-        <div className="container-fluid">
+        <div className="container">
           <a className="navbar-brand ms-2" href="#top">
           <h1>Abed Al Rahim Soubra</h1>
           </a>
